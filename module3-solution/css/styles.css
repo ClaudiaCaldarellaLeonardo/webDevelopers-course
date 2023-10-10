@@ -4,14 +4,17 @@ h1{
 }
 #tit{
 	position: absolute;
-	top:0px;
-	right:50px;
-	left:50px;
+	top:50px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
 	font-weight: bold;
 	
 }
 p{
-	margin-top: 100px;
+	margin-top: 250px;
 }
 .container1{
 	position: relative;
