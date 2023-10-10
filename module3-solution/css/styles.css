@@ -2,3 +2,19 @@ h1{
 	text-align: center;
 	font-weight: bold;
 }
+#tit{
+	position: absolute;
+	top:0px;
+	right:0px;	
+	border: 1px solid white;
+	background-color: #FFF7DF;
+	
+}
+p{
+	margin-top: 40px;
+}
+.container{
+	position: relative;
+	background-color: #FFC44F;
+	border: 1px solid black;
+}
