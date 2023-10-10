@@ -4,7 +4,7 @@ h1{
 }
 #tit{
 	position: absolute;
-	top:40px;
+	top:30px;
 	margin-left: auto;
 	margin-right: auto;
 	left: 0;
@@ -14,7 +14,7 @@ h1{
 	
 }
 p{
-	margin-top: 120px;
+	margin-top: 130px;
 }
 .container1{
 	position: relative;
@@ -22,5 +22,8 @@ p{
 	border: 2px solid #ada397;
 }
 .container-fluid{
-	padding-bottom: 20px;
+	padding-bottom: 40px;
+	padding-right: 40px;
+	padding-left:40px;
+	padding-top: 40px;
 }
