@@ -9,9 +9,10 @@ h1{
 	margin-right: auto;
 	left: 0;
 	right: 0;
-	text-align: center;	
+	text-align: center;
+	font-weight: bold;
+	
 }
-
 p{
 	margin-top: 130px;
 }
@@ -26,7 +27,4 @@ p{
 	padding-left:40px;
 	padding-top: 40px;
 	margin-top: 50px;
-}
-.navbar-brand{
-	font-weight: bold;
 }
