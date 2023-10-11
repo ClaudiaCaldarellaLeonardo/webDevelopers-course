@@ -35,5 +35,3 @@
 	window.helloSpeaker=helloSpeaker;
 
 })(window);
-
-console.log(helloSpeaker);

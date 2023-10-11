@@ -38,5 +38,3 @@
 	window.byeSpeaker=byeSpeaker;
 
 })(window);
-
-console.log(byeSpeaker);
