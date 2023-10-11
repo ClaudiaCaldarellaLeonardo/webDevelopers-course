@@ -9,14 +9,15 @@
 
   <script>
   	
-
+	console.log('qui entro');
+  	
   	(function(){
 	var speakWord = "Hello";
-	function speak(name) {
+	var saluto=function speak(name) {
   	console.log(speakWord + " " + name);
 	}
 
-	})('claudia');
+	})(('claudia');
   </script>
 </head>
 <body>
